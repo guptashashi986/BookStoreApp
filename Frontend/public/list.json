@@ -1,0 +1,90 @@
+[
+    {
+        "id":1,
+        "name":"Story Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":2,
+        "name":"Drama Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":3,
+        "name":"Religious Book",
+        "title":"This is story based book.",
+        "price":100,
+        "category":"Religious",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":4,
+        "name":"Bharatiya Freedom ",
+        "title":"This is story based book.",
+        "price":300,
+        "category":"Freedom",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":5,
+        "name":"Sports Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Sports",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":6,
+        "name":"Food Book",
+        "title":"This is story based book.",
+        "price":200,
+        "category":"Food",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":7,
+        "name":"Story Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":8,
+        "name":"Story Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":9,
+        "name":"Story Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":10,
+        "name":"Story Book",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    },
+    {
+        "id":11,
+        "name":"Physics for XII ",
+        "title":"This is story based book.",
+        "price":0,
+        "category":"Free",
+        "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1719553077~exp=1719556677~hmac=38eff90a9cb2e3bab975a1547515939351f1329ef6852a0686f0cbdcda66dadf&w=740"
+    }
+]
