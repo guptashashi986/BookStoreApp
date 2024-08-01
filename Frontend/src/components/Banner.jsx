@@ -36,7 +36,7 @@ const Banner = () => {
         {/*<button className="btn mt-6 btn-secondary">Secondary</button>*/}
 
         <button className='mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-800 duration-300'>
-                Secondary</button>
+                Get Started</button>
 
         <Link to="/course"><button className='mt-6 bg-pink-500 text-white px-4 py-2 rounded-md hover:bg-pink-800 duration-300'>
                 Next Page</button></Link>
